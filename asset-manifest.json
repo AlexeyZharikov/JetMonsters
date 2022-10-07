@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/JetMonsters/static/css/main.e45fd638.css",
-    "main.js": "/JetMonsters/static/js/main.5d1f9c09.js",
+    "main.css": "/JetMonsters/static/css/main.211dea88.css",
+    "main.js": "/JetMonsters/static/js/main.011e2b95.js",
     "index.html": "/JetMonsters/index.html",
-    "main.e45fd638.css.map": "/JetMonsters/static/css/main.e45fd638.css.map",
-    "main.5d1f9c09.js.map": "/JetMonsters/static/js/main.5d1f9c09.js.map"
+    "main.211dea88.css.map": "/JetMonsters/static/css/main.211dea88.css.map",
+    "main.011e2b95.js.map": "/JetMonsters/static/js/main.011e2b95.js.map"
   },
   "entrypoints": [
-    "static/css/main.e45fd638.css",
-    "static/js/main.5d1f9c09.js"
+    "static/css/main.211dea88.css",
+    "static/js/main.011e2b95.js"
   ]
 }
