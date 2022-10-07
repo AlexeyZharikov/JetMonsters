@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JetMonsters/static/css/main.e45fd638.css",
+    "main.js": "/JetMonsters/static/js/main.5d1f9c09.js",
+    "index.html": "/JetMonsters/index.html",
+    "main.e45fd638.css.map": "/JetMonsters/static/css/main.e45fd638.css.map",
+    "main.5d1f9c09.js.map": "/JetMonsters/static/js/main.5d1f9c09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fd638.css",
+    "static/js/main.5d1f9c09.js"
+  ]
+}
